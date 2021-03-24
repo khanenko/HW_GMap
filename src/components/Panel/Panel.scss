@@ -1,0 +1,10 @@
+.panel {
+  width: 300px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  &__input {
+    margin-bottom: 16px;
+  }
+}
